@@ -1,4 +1,4 @@
-PLSQL
-=====
+SQL
+===
 
-Código en PL/SQL, fundamentalmente ejercicios resueltos para mis alumnos del IES Gonzalo Nazareno
+Código en SQL, fundamentalmente ejercicios resueltos para mis alumnos del IES Gonzalo Nazareno
